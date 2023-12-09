@@ -27,5 +27,13 @@
 # Network Structure
 ![image](https://github.com/sfocxic/BDGNet/blob/main/fig/Network_Structure.png)
 # Complexity
- |**Properties**|**FCN**|
+|**Properties**|**FCN**|**DeepLabV3**|**ST_UNet**|**UNetFormer**|**Ours**|
+|---|---|---|---|---|---|
+|Global attention |N|Y|Y|Y|Y|
+|Multi-scale interaciton|N|N|Y|Y|Y|
+|Computational complexity|O(n)|O(n)|O(n^2)|O(n^2)|O(n)|
+      
+      
+
+
 
