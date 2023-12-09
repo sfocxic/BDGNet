@@ -19,10 +19,10 @@
 # Network Structure
 ![image](https://github.com/sfocxic/BDGNet/blob/main/fig/Network_Structure.png)
 # Requirements：
-numpy~=1.19.5
-torch~=1.11.0
-matplotlib~=3.5.2
-opencv-python~=4.5.5.64
-tqdm~=4.64.0
-Pillow~=9.0.1
-torchvision~=0.12.0
+      numpy~=1.19.5
+      torch~=1.11.0
+      matplotlib~=3.5.2
+      opencv-python~=4.5.5.64
+      tqdm~=4.64.0
+      Pillow~=9.0.1
+      torchvision~=0.12.0
