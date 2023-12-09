@@ -17,6 +17,6 @@
         ├── transforms.py
         ├── utils.py
 # Network Structure
-
+https://github.com/sfocxic/BDGNet/blob/main/fig/Network_Structure.png
 
 
