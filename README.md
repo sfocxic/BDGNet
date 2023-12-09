@@ -10,11 +10,13 @@
         │   │   ├── Labels
         ├── potsdam (the same with vaihingen)
         ├── model
-        │   ├── CTFuse
+        │   ├── BDGNet
         ├── my_dataset.py
         ├── predict.py
         ├── train.py
         ├── transforms.py
         ├── utils.py
 # Network Structure
-[fig1.pdf](https://github.com/sfocxic/BDGNet/files/13623671/fig1.pdf)
+
+
+
